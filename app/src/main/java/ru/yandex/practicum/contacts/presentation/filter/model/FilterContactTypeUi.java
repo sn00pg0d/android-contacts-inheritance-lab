@@ -8,6 +8,7 @@ public class FilterContactTypeUi extends ContactsOrderTypeUi {
 
     public FilterContactTypeUi(@NonNull String type, boolean isSelected) {
         super(type, isSelected);
+
     }
 
     @Override

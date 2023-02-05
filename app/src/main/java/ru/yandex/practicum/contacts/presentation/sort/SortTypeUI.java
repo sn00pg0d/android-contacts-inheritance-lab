@@ -8,6 +8,7 @@ public class SortTypeUI extends ContactsOrderTypeUi {
 
     public SortTypeUI(@NonNull String type, boolean isSelected) {
         super(type, isSelected);
+
     }
 
     @Override

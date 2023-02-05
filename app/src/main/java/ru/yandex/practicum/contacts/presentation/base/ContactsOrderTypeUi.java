@@ -9,6 +9,7 @@ abstract public class ContactsOrderTypeUi {
     public ContactsOrderTypeUi(@NonNull String type, boolean isSelected) {
         this.type = type;
         this.isSelected = isSelected;
+
     }
 
     public String getType() {
